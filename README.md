@@ -1,6 +1,6 @@
 ![logo](https://github.com/ObikeMartins/ObikeMartins/blob/main/devops.webp)
 <h1 align="center">Hi 👋, I'm Obike Martins</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">I'm a passionate DevOps Engineer, deeply immersed in leveraging the AWS/Azure Cloud to enhance operational efficiency and drive innovation.</h3>
 
 
 [![Linkedin Followers](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://linkedin.com/in/obikemartins)
