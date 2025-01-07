@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **DevOps, AWS Cloud Engineer**
 
-- 📫 How to reach me **martinschiemezie22@gmail.com**
+- 📫 How to reach me **chiemezieobike@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
